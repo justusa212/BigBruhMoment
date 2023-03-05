@@ -276,3 +276,7 @@
     transform: rotate(0deg);
   }
 }
+
+.symptoms-form input{
+  display: block;
+}
